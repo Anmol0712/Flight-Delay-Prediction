@@ -6,8 +6,6 @@ The dataset contains detailed information about flights, delays, and their cause
 ---
 
 ## Dataset  
-
-- **Source:** US Department of Transportation (Bureau of Transportation Statistics)  
 - **Features Include:**  
   - Flight info: `year`, `month`, `carrier`, `carrier_name`, `airport`, `airport_name`  
   - Performance: `arr_flights`, `arr_del15` (delays ≥15 minutes), `arr_cancelled`, `arr_diverted`  
